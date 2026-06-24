@@ -4,7 +4,7 @@ A KOL (Key Opinion Leader) audit page for [KillShill](https://killshill.ai) — 
 
 ## Live Demo
 
-[View Live →](YOUR_VERCEL_URL)
+[View Live →](https://killshill-assesment.vercel.app/)
 
 ## Features
 
